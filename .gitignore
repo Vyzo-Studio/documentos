@@ -1,0 +1,3 @@
+*.backup.json
+central-documentos-*.json
+node_modules/
